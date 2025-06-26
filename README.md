@@ -85,14 +85,15 @@ Blood is drawn from a vein (venipuncture), usually from the inside of the elbow 
 A total protein and albumin/globulin ratio test measures the total amount of protein in your blood
 
 # <b>TASK 1
-## <b>PREPARE A COMPLETE DATA ANALYSIS REPORT ON THE GIVEN DATA.
+#### <b>PREPARE A COMPLETE DATA ANALYSIS REPORT ON THE GIVEN DATA.
 
 # <b>TASK 2
-## <b>CREATE A PREDICTIVE MODEL WITH IMPLEMENTATION OF DIFFERENT CLASSIFIERS ON LIVER PATIENT DISEASES DATASET TO PREDICT LIVER DISEASES.
+#### <b>CREATE A PREDICTIVE MODEL WITH IMPLEMENTATION OF DIFFERENT CLASSIFIERS ON LIVER PATIENT DISEASES DATASET TO PREDICT LIVER DISEASES.
 
 # <b>TASK 3
-## <b>CREATE AN ANALYSIS TO SHOW ON WHAT BASIS YOU HAVE DESIGNED  YOUR MODEL.
+#### <b>CREATE AN ANALYSIS TO SHOW ON WHAT BASIS YOU HAVE DESIGNED  YOUR MODEL.
 
+# <b>SUMMARY OF PROJECT
 
 #### <b> This analysis explains the rationale behind the choices made during the design of the liver disease prediction model.
 
